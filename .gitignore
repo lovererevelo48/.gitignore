@@ -1,0 +1,4 @@
+requisitions.db
+__pycache__/
+.venv/
+*.pyc
